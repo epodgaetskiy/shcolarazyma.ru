@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "NeoSansCyr-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/NeoSansCyr/NeoSansCyr-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NeoSansCyr/NeoSansCyr-Regular.woff") format("woff"), url("../fonts/NeoSansCyr/NeoSansCyr-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "NeoSansProRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/NeoSansProRegular/NeoSansProRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/NeoSansProRegular/NeoSansProRegular.woff") format("woff"), url("../fonts/NeoSansProRegular/NeoSansProRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "NeoSansProBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/NeoSansProBold/NeoSansProBold.eot?#iefix") format("embedded-opentype"), url("../fonts/NeoSansProBold/NeoSansProBold.woff") format("woff"), url("../fonts/NeoSansProBold/NeoSansProBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "fontawesome-webfont";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome-webfont.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
